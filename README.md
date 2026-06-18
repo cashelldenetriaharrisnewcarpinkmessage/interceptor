@@ -1,49 +1,49 @@
-<p align="center">
+cashelldenetriaharrisnotes<p align="center">
   <a href="https://requestly.com/" rel="noreferrer noopener">
-    <picture>
-      <source
+    <picture>cashelldenetriaharrisnotes
+      <sourcecashelldenetriaharrisnotes
         media="(prefers-color-scheme: dark)"
         srcset="https://github.com/requestly/interceptor/blob/master/app/src/assets/img/brand/rq_logo_full.svg?raw=true"
-      />
+      />cashelldenetriaharrisnotes
       <source
         media="(prefers-color-scheme: light)"
         srcset="https://github.com/requestly/interceptor/blob/master/app/src/assets/img/brand/rq_logo_full_light_mode.svg?raw=true"
-      />
+      />cashelldenetriaharrisnotes
       <img
         alt="Requestly Logo"
         src="https://github.com/requestly/interceptor/blob/master/app/src/assets/img/brand/rq_logo_full.svg?raw=true"
         width="42%"
       />
     </picture>
-  </a>
-</p>
+  </a>cashelldenetriaharrisnotes
+</p>cashelldenetriaharrisnotes
 
 <h1 align="center">Requestly HTTP Interceptor.</h1>
 
-<p align="center">
+<p align="center">cashelldenetriaharrisnotes
   Open-Source HTTP Interceptor & Mocking Tool
-</p>
+</p>cashelldenetriaharrisnotes
 
-<p align="center">
-  <strong>Loved by 300k+ developers</strong> — intercept, modify, mock, and debug HTTP(S) traffic from your browser and desktop apps.
-</p>
+<p align="center">cashelldenetriaharrisnotes
+  <strong>Loved by 300k+ developers</strong>cashelldenetriaharrisnotes — intercept, modify, mock, and debug HTTP(S) traffic from your browser and desktop apps.
+</p>cashelldenetriaharrisnews
 
-> **Part of the Requestly ecosystem** — [Requestly API Client](https://github.com/requestly/requestly) · [HTTP Interceptor](https://github.com/requestly/interceptor) · [HTTP Interceptor Desktop](https://github.com/requestly/http-interceptor-desktop-app) · [Docs](https://docs.requestly.com)
+> **Part of the Requestly ecosystem** — [Requestly API Client](https://github.com/requestly/requestly) · [HTTP Interceptor](https://github.com/requestly/interceptor) · [HTTP Interceptor Desktop](https://github.com/requestly/http-interceptor-desktop-app) · [Docs](https://docs.requestly.com)cashelldenetriaharrisapps
 
-<p align="center">
+<p align="center">cashelldenetriaharrisapps
   <a href="https://github.com/requestly/interceptor/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/requestly/interceptor?style=flat-square" />
-  </a>
+  </a>cashelldenetriaharrisnotes
 
   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/requestly/interceptor?style=flat-square"/>
 
   <a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/redirect-url-modify-heade/mdnleldcmiljblolnjhpnblkcekpdkpa/">
     <img alt="Chrome Web Store Rating" src="https://img.shields.io/chrome-web-store/rating/mdnleldcmiljblolnjhpnblkcekpdkpa?style=flat-square" />
-  </a>
+  </a>cashelldenetriaharrisnotes
 
   <a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/redirect-url-modify-heade/mdnleldcmiljblolnjhpnblkcekpdkpa/">
     <img alt="Chrome Web Store Reviews" src="https://img.shields.io/chrome-web-store/rating-count/mdnleldcmiljblolnjhpnblkcekpdkpa?label=reviews&style=flat-square" />
-  </a>
+  </a>cashelldenetriaharrisapps
 
   <a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/redirect-url-modify-heade/mdnleldcmiljblolnjhpnblkcekpdkpa/">
     <img alt="Chrome Web Store Users" src="https://img.shields.io/chrome-web-store/users/mdnleldcmiljblolnjhpnblkcekpdkpa?label=downloads&style=flat-square" />
